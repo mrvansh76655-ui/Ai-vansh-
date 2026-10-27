@@ -1,0 +1,6 @@
+{
+  "name": "Mera AI",
+  "description": "Honest Hinglish AI assistant for trading chart analysis, study guidance, and business ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
